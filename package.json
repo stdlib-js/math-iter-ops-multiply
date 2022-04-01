@@ -1,0 +1,35 @@
+{
+  "name": "@stdlib/math-iter-ops-multiply",
+  "version": "0.0.0",
+  "description": "Create an iterator which performs element-wise multiplication of two or more iterators.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-iter-ops-multiply.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "math",
+    "mathematics",
+    "arithmetic",
+    "multiplication",
+    "multiply",
+    "times",
+    "product",
+    "prod",
+    "iterator",
+    "iterable",
+    "iterate"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
