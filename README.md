@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import iterMultiply from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-ops-multiply@esm/index.mjs';
+import iterMultiply from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-ops-multiply@v0.2.1-esm/index.mjs';
 ```
 
 #### iterMultiply( iter0, ...iterator )
@@ -136,7 +136,7 @@ var bool = it.next().done;
 <script type="module">
 
 import iterSineWave from 'https://cdn.jsdelivr.net/gh/stdlib-js/simulate-iter-sine-wave@esm/index.mjs';
-import iterMultiply from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-ops-multiply@esm/index.mjs';
+import iterMultiply from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-ops-multiply@v0.2.1-esm/index.mjs';
 
 // Create an iterator which generates a sine wave:
 var sine1 = iterSineWave({
